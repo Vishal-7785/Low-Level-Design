@@ -1,0 +1,4 @@
+public enum SUBMISSIONSTATUS {
+    SUCCESS,
+    FAILED
+}

@@ -1,0 +1,5 @@
+public enum CONTESTSTATUS {
+    RUNNING,
+    COMPLETED,
+    SCHEDULED
+}
